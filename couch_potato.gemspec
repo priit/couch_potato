@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.name = "couch_potato"
   s.required_rubygems_version = ">= 0"
   s.files = ["init.rb",
- "Readme.textile",
+ "README.textile",
  "MIT-LICENSE.txt",
  "CREDITS",
  "lib/core_ext",
@@ -37,6 +37,7 @@ Gem::Specification.new do |s|
  "lib/couch_potato/persistence.rb",
  "lib/couch_potato/versioning.rb",
  "lib/couch_potato.rb",
+ "rails/init.rb",
  "spec/attributes_spec.rb",
  "spec/belongs_to_spec.rb",
  "spec/callbacks_spec.rb",
