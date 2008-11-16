@@ -19,10 +19,9 @@ Couch Potato is a work in progress so this list will hopefully grow over time.
 
 h3. Installation
 
-Couch Potato is hosted as a gem on github which you can install like this:
+First you need Couchdb 0.9 or newer then:
 
-  sudo gem source --add http://gems.github.com # if you haven't alread
-  sudo gem install langalex-couch_potato
+  sudo gem install langalex-couch_potato --source http://gems.github.com
   
 h4. Using with your ruby application:
 
